@@ -15,6 +15,7 @@ session/
 
 # Configuración de VS Code
 .vscode/
+.vs/
 
 # Archivos temporales de editores
 *.swp
